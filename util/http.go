@@ -10,7 +10,7 @@ import (
 )
 
 // ContentTypeJSON is contentType for post
-const ContentTypeJSON = "application/json"
+const ContentTypeJSON = "application/json;charset=UTF-8"
 
 // Get 发送GET请求
 // url：         请求地址
